@@ -19,8 +19,8 @@ var App = {
 
   lolHeadings: {
     good: ["Battle station fully operational"],
-    minorproblem: ["brb bathroom", "We had a couple beers with lunch", "This should be working", "Works fine on my machine"],
-    majorproblem: ['We all went home and drank', "Slava doesn't work today", 'Ops is at a Halo tourney', "Wasn't today was a holiday?"]
+    minorproblem: ["brb bathroom", "We had a couple beers with lunch", "This should be working", "Works fine on my machine", "Did I do that?"],
+    majorproblem: ['We all went home and drank', "Slava doesn't work today", 'Ops is at a Halo tourney', "Wasn't today was a holiday?", "640K ought to be enough for anybody."]
   },
 
   lolHeading: function(status) {

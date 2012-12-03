@@ -18,7 +18,9 @@ var App = {
   },
 
   lolHeadings: {
-    good: ["Battle station fully operational"],
+    good: [
+      "We're mostly sober for the moment"
+    ],
     minorproblem: [
       "brb bathroom",
       "We had a couple beers with lunch",
